@@ -1,0 +1,3 @@
+E:/Programs/CLion/saoleiGame/cmake-build-debug/CMakeFiles/saoleiGame.dir
+E:/Programs/CLion/saoleiGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Programs/CLion/saoleiGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
